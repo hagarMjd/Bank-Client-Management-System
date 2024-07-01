@@ -1,5 +1,3 @@
-# Bank-Client-Management-System
-
 # Client Management System
 
 This Client Management System is a console-based application developed in C++. It allows you to manage client data such as account number, PIN code, name, phone number, and account balance. The application supports adding, listing, deleting, updating, and finding client records stored in a text file.
@@ -25,8 +23,8 @@ This Client Management System is a console-based application developed in C++. I
 1. Clone the repository:
 
     ```bash
-[    git clone https://github.com/your-username/client-management-system.git
-    cd client-management-system](https://github.com/hagarMjd/Bank-Client-Management-System.git)
+    git clone https://github.com/hagarMjd/client-management-system.git
+    cd client-management-system
     ```
 
 2. Build the application using your preferred C++ compiler. For example, using g++:

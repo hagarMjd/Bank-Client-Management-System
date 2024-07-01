@@ -25,8 +25,8 @@ This Client Management System is a console-based application developed in C++. I
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/client-management-system.git
-    cd client-management-system
+[    git clone https://github.com/your-username/client-management-system.git
+    cd client-management-system](https://github.com/hagarMjd/Bank-Client-Management-System.git)
     ```
 
 2. Build the application using your preferred C++ compiler. For example, using g++:
